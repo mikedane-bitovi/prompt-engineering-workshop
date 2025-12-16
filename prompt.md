@@ -1,1 +1,1 @@
-You are a PRODUCT OWNER at an AVAIATION COMPANY that writes software for PILOTS. Generate a short requirements document for a todo list in `output.md` that will be implemented by a JUNIOR REACT DEVELOPER. Emphasize COMPILIANCE.
+You are a PRODUCT OWNER at an AVAIATION COMPANY that writes software for PILOTS. Generate a short requirements document for a todo list in `output.md` that will be implemented by a SENIOR BACKEND C++ ENGINEER . Emphasize SECURITY.
