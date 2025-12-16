@@ -1,0 +1,1 @@
+Generate a short requirements document for a todo list in `output.md`.
