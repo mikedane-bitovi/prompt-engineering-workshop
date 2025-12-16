@@ -18,3 +18,4 @@ Additional rules:
 
 Before producing the final output, reason step-by-step about security, safety, and misuse scenarios. Do not include that reasoning in the output.
 
+For each requirement, consider multiple wording options, rank each on a scale of 1-5 for expressiveness, and choose the best. Do not include this analysis in the output.
